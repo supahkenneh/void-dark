@@ -1,16 +1,21 @@
-# void-dark README
+# Void Theme
 
-## Working with Markdown
+<img src="./assets/void.png" alt="void-logo" title="Void Theme" style="display:block; margin-left:auto; margin-right:auto" />
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshot
+<img src="./assets/void-theme-ss1.png" alt="void-theme-screenshot" title="Void Theme Screenshot" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Instructions
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for Theme
+3. Click Install
+4. Click Reload to reload your editor
+5. Select the Manage Cog (bottom left) > Color Theme ＞ Theme
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Publisher Links
+* [Portfolio](https://kennychung.dev)
+* [Github](https://www.github.com/supahkenneh)
+* [Aux Buddy](https://aux-buddy.herokuapp.com/)
+* [Hexle](https://www.supahkenneh.com/hexle)
 
 **Enjoy!**

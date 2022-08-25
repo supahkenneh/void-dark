@@ -1,8 +1,20 @@
 {
   "name": "void-dark",
   "displayName": "Void Dark",
-  "description": "Dark theme",
+  "description": "A VS Code theme inspired by popular game League of Legends",
   "version": "0.0.1",
+  "publisher": "supahkenneh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supahkenneh/void-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "void",
+    "void theme",
+    "supahkenneh"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
