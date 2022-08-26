@@ -30,18 +30,18 @@
     "dropdown.foreground": "#d7dce2",
 
     // Input control
-    "input.background": "#161B3B",
+    "input.background": "#11142D",
     "input.border": "#2f3b54",
     "input.foreground": "#d7dce2",
     "input.placeholderForeground": "#8695b777",
     "inputOption.activeBorder": "#2f3b54",
-    "inputValidation.errorBackground": "#161B3B",
+    "inputValidation.errorBackground": "#11142D",
     "inputValidation.errorForeground": "#ef6b73",
     "inputValidation.errorBorder": "#ef6b73",
-    "inputValidation.infoBackground": "#161B3B",
+    "inputValidation.infoBackground": "#11142D",
     "inputValidation.infoForeground": "#5ccfe6",
     "inputValidation.infoBorder": "#5ccfe6",
-    "inputValidation.warningBackground": "#161B3B",
+    "inputValidation.warningBackground": "#11142D",
     "inputValidation.warningForeground": "#ffd580",
     "inputValidation.warningBorder": "#ffd580",
 
@@ -52,7 +52,7 @@
     "scrollbarSlider.hoverBackground": "#8695b799",
 
     // Badge
-    "badge.foreground": "#161B3B",
+    "badge.foreground": "#11142D",
     "badge.background": "#9d4edd",
 
     // Progress bar
@@ -90,50 +90,50 @@
     // Side Bar
     "sideBar.background": "#11152D",
     "sideBar.foreground": "#8695b7",
-    // "sideBar.border": "#161B3B",
+    // "sideBar.border": "#11142D",
     "sideBarTitle.foreground": "#9d4edd",
-    "sideBarSectionHeader.background": "#161B3B",
+    "sideBarSectionHeader.background": "#11142D",
     "sideBarSectionHeader.foreground": "#9d4edd",
     "sideBarSectionHeader.border": "#11152D",
 
     // Editor Groups
     "editorGroup.border": "#2f3b54",
     "editorGroup.dropBackground": "#2f3b54",
-    "editorGroupHeader.noTabsBackground": "#161B3B",
+    "editorGroupHeader.noTabsBackground": "#11142D",
     "editorGroupHeader.tabsBackground": "#11152D",
     "editorGroupHeader.tabsBorder": "#11152D",
-    "editorGroup.emptyBackground": "#161B3B",
-    "editorGroup.focusedEmptyBorder": "#161B3B",
+    "editorGroup.emptyBackground": "#11142D",
+    "editorGroup.focusedEmptyBorder": "#11142D",
 
     // Tabs
-    "tab.activeBackground": "#161B3B",
-    "tab.unfocusedActiveBackground": "#161B3B",
+    "tab.activeBackground": "#11142D",
+    "tab.unfocusedActiveBackground": "#11142D",
     "tab.activeForeground": "#d7dce2",
     "tab.border": "#11152D",
     "tab.activeBorder": "#9d4edd",
     "tab.unfocusedActiveBorder": "#9d4edd77",
     "tab.activeBorderTop": "#11152D",
-    "tab.unfocusedActiveBorderTop": "#161B3B",
+    "tab.unfocusedActiveBorderTop": "#11142D",
     "tab.inactiveBackground": "#11152D",
     "tab.inactiveForeground": "#d7dce277",
     "tab.unfocusedActiveForeground": "#d7dce2",
     "tab.unfocusedInactiveForeground": "#d7dce277",
     "tab.hoverBackground": "#2f3b54",
-    "tab.unfocusedHoverBackground": "#161B3B",
+    "tab.unfocusedHoverBackground": "#11142D",
     "tab.hoverBorder": "#9d4edd",
     "tab.unfocusedHoverBorder": "#9d4edd77",
     // "tab.activeModifiedBorder": "#9d4edd",
     // "tab.inactiveModifiedBorder": "#9d4edd",
     // "tab.unfocusedActiveModifiedBorder": "#9d4edd",
     // "tab.unfocusedInactiveModifiedBorder": "#9d4edd",
-    "editorPane.background": "#161B3B",
+    "editorPane.background": "#11142D",
 
     // Editor colors
-    "editor.background": "#161B3B",
+    "editor.background": "#11142D",
     "editor.foreground": "#e4c1f9",
     "editorLineNumber.foreground": "#8695b755",
     "editorLineNumber.activeForeground": "#8695b7",
-    "editorCursor.background": "#161B3B",
+    "editorCursor.background": "#11142D",
     "editorCursor.foreground": "#9d4edd",
 
     // Editor selection colors
@@ -198,7 +198,7 @@
     // "editorHint.border": "#9d4edd",
 
     // Editor Gutter
-    "editorGutter.background": "#161B3B",
+    "editorGutter.background": "#11142D",
     "editorGutter.modifiedBackground": "#5ccfe6",
     "editorGutter.addedBackground": "#fc7a1e",
     "editorGutter.deletedBackground": "#ef6b73",
@@ -217,7 +217,7 @@
     "editorSuggestWidget.border": "#2f3b54",
     "editorSuggestWidget.foreground": "#d7dce2",
     "editorSuggestWidget.highlightForeground": "#9d4edd",
-    "editorSuggestWidget.selectedBackground": "#161B3B",
+    "editorSuggestWidget.selectedBackground": "#11142D",
     "editorHoverWidget.background": "#2f3b54",
     "editorHoverWidget.border": "#2f3b54",
     "debugExceptionWidget.background": "#2f3b54",
@@ -230,7 +230,7 @@
     // Peek View colors
     "peekView.border": "#9d4edd",
     "peekViewEditor.background": "#2f3b54",
-    "peekViewEditorGutter.background": "#161B3B",
+    "peekViewEditorGutter.background": "#11142D",
     "peekViewEditor.matchHighlightBackground": "#8695b7",
     "peekViewEditor.matchHighlightBorder": "#9d4edd",
     "peekViewResult.background": "#2f3b54",
@@ -257,7 +257,7 @@
 
     // Panel colors
     "panel.background": "#11152D",
-    "panel.border": "#161B3B",
+    "panel.border": "#11142D",
     "panel.dropBorder": "#2f3b54",
     "panelTitle.activeBorder": "#9d4edd",
     "panelTitle.activeForeground": "#d7dce2",
@@ -265,7 +265,7 @@
     "panelInput.border": "#8695b7",
     "panelSection.border": "#2f3b54",
     "panelSection.dropBackground": "#2f3b54",
-    "panelSectionHeader.background": "#161B3B",
+    "panelSectionHeader.background": "#11142D",
     "panelSectionHeader.foreground": "#9d4edd",
 
     // Status Bar colors
@@ -277,7 +277,7 @@
     "statusBar.noFolderBackground": "#11152D",
     "statusBar.noFolderForeground": "#8695b7",
     "statusBarItem.activeBackground": "#2f3b54",
-    "statusBarItem.hoverBackground": "#161B3B",
+    "statusBarItem.hoverBackground": "#11142D",
     "statusBarItem.remoteBackground": "#11152D",
     "statusBarItem.remoteForeground": "#8695b7",
 
@@ -308,7 +308,7 @@
 
     // Extensions
     "extensionButton.prominentBackground": "#9d4edd",
-    "extensionButton.prominentForeground": "#161B3B",
+    "extensionButton.prominentForeground": "#11142D",
     "extensionButton.prominentHoverBackground": "#9d4edd99",
 
     // Quick Picker
@@ -372,7 +372,7 @@
 
     // Breadcrumbs
     "breadcrumb.foreground": "#8695b7",
-    "breadcrumb.background": "#161B3B",
+    "breadcrumb.background": "#11142D",
     "breadcrumb.focusForeground": "#d7dce2",
     "breadcrumb.activeSelectionForeground": "#d7dce2",
     "breadcrumbPicker.background": "#11152D"
